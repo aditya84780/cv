@@ -5,5 +5,19 @@ hr {border-style: dotted none none;
     border-width: 7px;
     border-color: lightgrey;
      }
-h1 {color: #66bfbf;}
+h1 {color: #1e5f74;}
 h3 {color: #66bfbf;}
+h2 {color: #66bfbf;}
+table {border-collapse: collapse;
+       }
+a {
+  text-decoration: none;}
+  a:link {
+    color: #fca652;
+  }
+a:visited{
+  color:#b52b65;
+}
+  a:focus{background-color: white;}
+    a:hover{color:#ff7e67;}
+      a:active{color:#1d2d50;}
