@@ -13,11 +13,11 @@ table {border-collapse: collapse;
 a {
   text-decoration: none;}
   a:link {
-    color: #fca652;
+    color: #ff7e67;
   }
 a:visited{
   color:#b52b65;
 }
   a:focus{background-color: white;}
-    a:hover{color:#ff7e67;}
+    a:hover{color: #fca652;}
       a:active{color:#1d2d50;}
